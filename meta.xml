@@ -1,0 +1,4 @@
+<meta>
+    <info author="Power" name="Veh Delete" version="1.1" type="misc"/>
+    <script src="power.lua" type="server"/>
+</meta>
